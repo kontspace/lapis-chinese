@@ -1,3 +1,5 @@
-# lapis 英文文档翻译
+# lapis 中文文档
 
-[lapis入门](/doc/lapis入门.md)
+1.[lapis入门](/docs/lapis入门.md)
+
+2.[使用Lua创建Lapis应用程序](/docs/使用Lua创建Lapis应用程序.md)
