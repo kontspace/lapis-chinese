@@ -2,6 +2,7 @@
 Lapis 是为 Lua 和 MoonScript 编写的 Web 框架。 
 Lapis 很有趣，因为它建立在Nginx 发行的 OpenResty 之上。
 您的 Web 应用程序直接在 Nginx 内部运行。 
+
 Nginx 的事件循环允许您使用 OpenResty 提供的模块进行异步 HTTP 请求，数据库查询和其他请求。 
 Lua 的协程允许你编写在后台事件驱动的同步代码。
 除了提供Web框架，Lapis还提供了用于在不同配置环境中控制 OpenResty 的工具。
